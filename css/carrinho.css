@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif ;
+}
+
+h1{
+    color: black;
+    border: dashed, red, 5px;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+    /*background: linear-gradient(45deg, rgb(129, 64, 99), rgb(223, 217, 138));*/
+    font-style: inherit;
+}
+
+footer{
+    background-color: gray;
+    color: white;
+    padding: 10px; 
+}
+
+#icone{
+    color: green;
+}
+.produto-item{
+    color: red;
+    font-weight: bold;
+}
